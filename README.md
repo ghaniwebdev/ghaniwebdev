@@ -14,7 +14,7 @@ I enjoy blending creativity with technology to craft meaningful digital experien
 ## Currently Learning
 Next.JS REST APIs Web Automation AI Tools for Developers
 
-Reach me at: **marcusmars563@gmail.com - Youtub Channel: https://www.youtube.com/@madebyghani***
+Reach me at: **marcusmars563@gmail.com - Youtube Channel: https://www.youtube.com/@madebyghani***
 
 <!--
 **ghaniwebdev/ghaniwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
